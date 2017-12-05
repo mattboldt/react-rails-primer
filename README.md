@@ -1,24 +1,11 @@
-# README
+# React-Rails Primer
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The fun stuff is in `app/assets/javascripts/components`. To get started, fork this repo, and...
 
-Things you may want to cover:
+```
+bundle
+rake db:migrate
+rails s
+```
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Then visit `localhost:3000` in your browser
